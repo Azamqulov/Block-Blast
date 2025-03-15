@@ -142,6 +142,9 @@ img {
 .nav-icon{
   display: none;
 }
+.nav-blog {
+  display: none
+}
 .nav-list {
   display: flex;
   gap: 30px;
@@ -182,7 +185,7 @@ img {
   justify-content: center;
   align-items: center;
   text-align: center;
-  position: relative;
+  /* position: relative; */
   padding-top: 80px;
 }
 
