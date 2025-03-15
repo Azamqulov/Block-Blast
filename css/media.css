@@ -1,0 +1,9 @@
+@media (max-width:768px) {
+  nav .nav-list {
+    display: none ;
+  }
+  .nav-icon{
+    display: block;
+    font-size: 35px ;
+  }
+}
